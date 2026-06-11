@@ -1,0 +1,9 @@
+{
+    "name": "UltraTurk",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/XA6bH7hMbr",
+    "description": "ULTRAKILL için Dublajlı Türkçe Yama.\nDubbed Turkish Translation for ULTRAKILL.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ]
+}

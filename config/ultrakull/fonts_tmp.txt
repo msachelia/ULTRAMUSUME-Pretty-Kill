@@ -1,0 +1,57 @@
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+LiberationSans SDF
+VCR_OSD_MONO_1
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+LiberationSans SDF
+VCR_OSD_MONO_1
+VCR_OSD_MONO_UI
+fs-tahoma-8px SDF
+fs-tahoma-8px-v2 SDF
+Bittypix Monospace SDF
