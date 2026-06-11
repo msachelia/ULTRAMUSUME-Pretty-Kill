@@ -1,8 +1,8 @@
 {
-    "name": "UltraTurk",
+    "name": "ULTRAMUSUME_Pretty_Kill",
     "version_number": "1.0.0",
-    "website_url": "https://discord.gg/XA6bH7hMbr",
-    "description": "ULTRAKILL için Dublajlı Türkçe Yama.\nDubbed Turkish Translation for ULTRAKILL.",
+    "website_url": "https://github.com/msachelia/ULTRAMUSUME-Pretty-Kill",
+    "description": "ULTRAMUSUME: Pretty Kill is a mod that replaces the in-game text/texture/voiceover with references to UMAMUSUME: Pretty Derby.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2305"
     ]
