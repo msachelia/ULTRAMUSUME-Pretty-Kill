@@ -2,7 +2,7 @@
     "name": "ULTRAMUSUME_Pretty_Kill",
     "version_number": "1.0.0",
     "website_url": "https://github.com/msachelia/ULTRAMUSUME-Pretty-Kill",
-    "description": "ULTRAMUSUME: Pretty Kill is a mod that replaces the in-game text/texture/voiceover with references to UMAMUSUME: Pretty Derby.",
+    "description": "ULTRAMUSUME: Pretty Kill is a mod that replaces the in-game text/texture/voiceover with references to Umamusume: Pretty Derby.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2305"
     ]

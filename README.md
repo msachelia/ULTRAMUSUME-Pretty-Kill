@@ -8,7 +8,7 @@ A full overhaul mod for **ULTRAKILL** that replaces every text texture, UI eleme
 
 ## Features
 
-- Replaces all in-game text textures with Umamusume-themed content
+- Replaces all in-game text textures with Umamusume-themed content (only the testaments in secret levels and museum hasn't been changed)
 - Swaps UI elements and logos with Umamusume references
 - Full voice acting replacement using Umamusume voice changers
 - Covers menus, in-game HUD, level text, and terminal screens
@@ -18,7 +18,7 @@ A full overhaul mod for **ULTRAKILL** that replaces every text texture, UI eleme
 1. Install [BepInEx](https://thunderstore.io/package/BepInEx/BepInExPack/) if you haven't already
 2. Download this mod from Thunderstore
 3. Drop the contents into your ULTRAKILL `BepInEx/plugins` folder
-4. Launch the game and hashire hasire umamusume
+4. Launch the game and hashire hashire umamusume
 
 ## Compatibility
 
